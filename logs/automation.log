@@ -1,0 +1,39 @@
+2024-09-04 11:37:00 INFO  TC_001_AccountRegistrationTest:16 - **** Started TC_001_AccountRegistrationTest *****
+2024-09-04 11:37:00 INFO  TC_001_AccountRegistrationTest:19 - **** Clicked on MyAcoount button ****
+2024-09-04 11:37:01 INFO  TC_001_AccountRegistrationTest:21 - **** Clicked on Regsiter button ****
+2024-09-04 11:37:01 INFO  TC_001_AccountRegistrationTest:24 - **** Providing the customer details ****
+2024-09-04 11:37:07 INFO  TC_001_AccountRegistrationTest:37 - **** Validating expected message ****
+2024-09-04 11:37:07 INFO  TC_001_AccountRegistrationTest:57 - **** Finished TC_001_AccountRegistrationTest *****
+2024-09-04 11:37:14 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-09-04 11:37:14 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-09-04 11:37:14 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-09-04 11:37:15 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-09-04 11:37:15 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-09-04 11:37:17 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-09-04 11:37:17 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-09-04 11:38:23 INFO  TC_001_AccountRegistrationTest:16 - **** Started TC_001_AccountRegistrationTest *****
+2024-09-04 11:38:23 INFO  TC_001_AccountRegistrationTest:19 - **** Clicked on MyAcoount button ****
+2024-09-04 11:38:25 INFO  TC_001_AccountRegistrationTest:21 - **** Clicked on Regsiter button ****
+2024-09-04 11:38:25 INFO  TC_001_AccountRegistrationTest:24 - **** Providing the customer details ****
+2024-09-04 11:38:27 INFO  TC_001_AccountRegistrationTest:37 - **** Validating expected message ****
+2024-09-04 11:38:27 INFO  TC_001_AccountRegistrationTest:57 - **** Finished TC_001_AccountRegistrationTest *****
+2024-09-04 11:38:38 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-09-04 11:38:38 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-09-04 11:38:38 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-09-04 11:38:38 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-09-04 11:38:38 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-09-04 11:38:41 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-09-04 11:38:41 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-09-04 12:37:30 INFO  TC_001_AccountRegistrationTest:16 - **** Started TC_001_AccountRegistrationTest *****
+2024-09-04 12:37:30 INFO  TC_001_AccountRegistrationTest:19 - **** Clicked on MyAcoount button ****
+2024-09-04 12:37:31 INFO  TC_001_AccountRegistrationTest:21 - **** Clicked on Regsiter button ****
+2024-09-04 12:37:31 INFO  TC_001_AccountRegistrationTest:24 - **** Providing the customer details ****
+2024-09-04 12:37:33 INFO  TC_001_AccountRegistrationTest:37 - **** Validating expected message ****
+2024-09-04 12:37:34 INFO  TC_001_AccountRegistrationTest:57 - **** Finished TC_001_AccountRegistrationTest *****
+2024-09-04 12:37:43 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-09-04 12:37:43 DEBUG TC_002_LoginTest:18 - capturing application debug logs....
+2024-09-04 12:37:43 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-09-04 12:37:44 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-09-04 12:37:44 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-09-04 12:37:46 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-09-04 12:37:46 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****

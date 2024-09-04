@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Master Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="os" value="windows"/>
+  <parameter name="browser" value="Chrome"/>
+  <listeners>
+    <listener class-name="utilties.ExtentReportManager"/>
+  </listeners>
+  <test name="Test">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="testCases.TC_001_AccountRegistrationTest"/>
+      <class name="testCases.TC_002_LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Master Suite] -->
